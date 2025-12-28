@@ -2,10 +2,10 @@
 
 
 
-#cmake .
+cmake .
 
 
-#make clean && make
+make clean && make
 
 
-#./main --memory size --window size --dd --threshold
+./main --memory size --window size --dd --threshold
